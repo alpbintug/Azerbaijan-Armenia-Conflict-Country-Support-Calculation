@@ -1,0 +1,10 @@
+D:\Okul\GitHub Material\VisualStudioProjects\AramaMotorlarıProjesi\AramaMotorlarıProjesiML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\Okul\GitHub Material\VisualStudioProjects\AramaMotorlarıProjesi\AramaMotorlarıProjesiML.Model\bin\Debug\netstandard2.0\AramaMotorlarıProjesiML.Model.deps.json
+D:\Okul\GitHub Material\VisualStudioProjects\AramaMotorlarıProjesi\AramaMotorlarıProjesiML.Model\bin\Debug\netstandard2.0\AramaMotorlarıProjesiML.Model.dll
+D:\Okul\GitHub Material\VisualStudioProjects\AramaMotorlarıProjesi\AramaMotorlarıProjesiML.Model\bin\Debug\netstandard2.0\AramaMotorlarıProjesiML.Model.pdb
+D:\Okul\GitHub Material\VisualStudioProjects\AramaMotorlarıProjesi\AramaMotorlarıProjesiML.Model\obj\Debug\netstandard2.0\AramaMotorlarıProjesiML.Model.csprojAssemblyReference.cache
+D:\Okul\GitHub Material\VisualStudioProjects\AramaMotorlarıProjesi\AramaMotorlarıProjesiML.Model\obj\Debug\netstandard2.0\AramaMotorlarıProjesiML.Model.AssemblyInfoInputs.cache
+D:\Okul\GitHub Material\VisualStudioProjects\AramaMotorlarıProjesi\AramaMotorlarıProjesiML.Model\obj\Debug\netstandard2.0\AramaMotorlarıProjesiML.Model.AssemblyInfo.cs
+D:\Okul\GitHub Material\VisualStudioProjects\AramaMotorlarıProjesi\AramaMotorlarıProjesiML.Model\obj\Debug\netstandard2.0\AramaMotorlarıProjesiML.Model.csproj.CoreCompileInputs.cache
+D:\Okul\GitHub Material\VisualStudioProjects\AramaMotorlarıProjesi\AramaMotorlarıProjesiML.Model\obj\Debug\netstandard2.0\AramaMotorlarıProjesiML.Model.dll
+D:\Okul\GitHub Material\VisualStudioProjects\AramaMotorlarıProjesi\AramaMotorlarıProjesiML.Model\obj\Debug\netstandard2.0\AramaMotorlarıProjesiML.Model.pdb

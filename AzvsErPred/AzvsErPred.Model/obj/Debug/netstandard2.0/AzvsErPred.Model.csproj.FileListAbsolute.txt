@@ -1,0 +1,10 @@
+D:\Okul\GitHub Material\VisualStudioProjects\AzvsErPred\AzvsErPred.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\Okul\GitHub Material\VisualStudioProjects\AzvsErPred\AzvsErPred.Model\bin\Debug\netstandard2.0\AzvsErPred.Model.deps.json
+D:\Okul\GitHub Material\VisualStudioProjects\AzvsErPred\AzvsErPred.Model\bin\Debug\netstandard2.0\AzvsErPred.Model.dll
+D:\Okul\GitHub Material\VisualStudioProjects\AzvsErPred\AzvsErPred.Model\bin\Debug\netstandard2.0\AzvsErPred.Model.pdb
+D:\Okul\GitHub Material\VisualStudioProjects\AzvsErPred\AzvsErPred.Model\obj\Debug\netstandard2.0\AzvsErPred.Model.csprojAssemblyReference.cache
+D:\Okul\GitHub Material\VisualStudioProjects\AzvsErPred\AzvsErPred.Model\obj\Debug\netstandard2.0\AzvsErPred.Model.AssemblyInfoInputs.cache
+D:\Okul\GitHub Material\VisualStudioProjects\AzvsErPred\AzvsErPred.Model\obj\Debug\netstandard2.0\AzvsErPred.Model.AssemblyInfo.cs
+D:\Okul\GitHub Material\VisualStudioProjects\AzvsErPred\AzvsErPred.Model\obj\Debug\netstandard2.0\AzvsErPred.Model.csproj.CoreCompileInputs.cache
+D:\Okul\GitHub Material\VisualStudioProjects\AzvsErPred\AzvsErPred.Model\obj\Debug\netstandard2.0\AzvsErPred.Model.dll
+D:\Okul\GitHub Material\VisualStudioProjects\AzvsErPred\AzvsErPred.Model\obj\Debug\netstandard2.0\AzvsErPred.Model.pdb
